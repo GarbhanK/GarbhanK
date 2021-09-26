@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GarbhanK
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Linux
+- 🌱 Currently learning Linux & R
 
 <!---
 GarbhanK/GarbhanK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
